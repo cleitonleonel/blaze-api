@@ -10,8 +10,7 @@ Automatize apostas em tempo real utilizando sinais e estratégias dos nossos gru
 [_Documentação BlazeAPI_](https://pyblaze.herokuapp.com/redoc)
 
 ## _Teste Grátis_:
-Faça o cadastro na plataforma [_BlazeAPI_](https://pyblaze.herokuapp.com/docs) . 
-Autorize a criação de um token a partir do usuário e senha criados, com o token em mãos acesse os endpoints privados que estão disponíveis para testes, vale lembrar que o token tem validade de apenas 1 hora.
+Faça o cadastro na plataforma [_BlazeAPI_](https://pyblaze.herokuapp.com/docs), autorize a criação de um token a partir do usuário e senha criados, com o token em mãos acesse os endpoints privados que estão disponíveis para testes, vale lembrar que o token tem validade de apenas 1 hora.
 
 ## _Observações_:
 O serviço disponibilizado aqui é apenas para demonstração, esteja ciente que não se deve utilizar em produção, caso necessite de mais recursos, suporte e funcionalidades entre em contato comigo por algum dos meus contatos disponíveis:
